@@ -1,6 +1,6 @@
 # BasicSynyAdapter
 
-####Started off with a basic android SyncAdapter Tutorial from the Developer Docs : [Creating a Sync Adapter - Tutorial](https://developer.android.com/training/sync-adapters/creating-sync-adapter.html)
+####Started off with a [Basic android SyncAdapter Tutorial from the Developer Docs](https://developer.android.com/training/sync-adapters/creating-sync-adapter.html)
 
 The plan is the modify the above tutorial to do the following:
 
