@@ -2,7 +2,7 @@
 
 ####Started off with a basic android SyncAdapter Tutorial from the Developer Docs : [Creating a Sync Adapter - Tutorial](https://developer.android.com/training/sync-adapters/creating-sync-adapter.html)
 
-The plan is the modify it to:
+The plan is the modify the above tutorial to do the following:
 
 1. Write a user account & authentication
 2. Fill in the content provider ?
