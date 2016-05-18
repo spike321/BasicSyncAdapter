@@ -1,4 +1,4 @@
-# BasicSynyAdapter
+# Project: Android accounts authentication and SyncAdapter
 
 ####Started off with a [Basic android SyncAdapter Tutorial from the Developer Docs](https://developer.android.com/training/sync-adapters/creating-sync-adapter.html)
 
